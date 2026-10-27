@@ -1,0 +1,465 @@
+[
+  {
+    "id": "butter-chicken", "name": "Butter Chicken", "emoji": "🍗", "wiki": "Butter chicken", "veg": false, "mins": 55, "level": "Medium", "serves": 4,
+    "ing": [
+      {"n": "chicken", "q": "500 g boneless, cubed"}, {"n": "curd", "q": "1/2 cup"}, {"n": "ginger", "q": "1 inch piece, grated"},
+      {"n": "garlic", "q": "5 cloves, minced"}, {"n": "tomato", "q": "4 large"}, {"n": "butter", "q": "3 tbsp"}, {"n": "cream", "q": "1/4 cup"},
+      {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "garam masala", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "sugar", "q": "1 pinch", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Mix the chicken with curd, half the ginger and garlic, chili powder, turmeric and salt. Marinate.", "s": 1800},
+      {"t": "Heat oil in a wide pan and sear the chicken in batches until lightly browned, about 6 to 8 minutes. Set aside."},
+      {"t": "Blend the tomatoes to a smooth puree."},
+      {"t": "Melt the butter in the same pan. Add the remaining ginger and garlic for 30 seconds, then the tomato puree. Cook until the oil separates.", "s": 720},
+      {"t": "Add the chicken and any juices, with a splash of water. Cover and simmer until cooked through.", "s": 600},
+      {"t": "Stir in the cream, garam masala and a pinch of sugar. Simmer 2 minutes, taste for salt, and serve with naan or rice.", "s": 120}
+    ]
+  },
+  {
+    "id": "chicken-biryani", "name": "Chicken Biryani", "emoji": "🍚", "wiki": "Biryani", "veg": false, "mins": 80, "level": "Hard", "serves": 4,
+    "ing": [
+      {"n": "chicken", "q": "500 g, bone-in pieces"}, {"n": "rice", "q": "1.5 cups basmati, soaked 30 min"}, {"n": "onion", "q": "3 large, thinly sliced"},
+      {"n": "curd", "q": "3/4 cup"}, {"n": "tomato", "q": "2, chopped"}, {"n": "ginger", "q": "1 inch, grated"}, {"n": "garlic", "q": "6 cloves, minced"},
+      {"n": "green chili", "q": "3, slit"}, {"n": "mint leaves", "q": "1/2 cup"}, {"n": "coriander leaves", "q": "1/2 cup"}, {"n": "ghee", "q": "3 tbsp"},
+      {"n": "garam masala", "q": "2 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1/2 cup, for frying", "s": 1}
+    ],
+    "steps": [
+      {"t": "Fry the sliced onions in oil until deep golden. Lift out onto paper and let them crisp.", "s": 900},
+      {"t": "Marinate the chicken with curd, ginger, garlic, chilies, spices, salt, half the fried onions, mint and coriander.", "s": 1800},
+      {"t": "Boil plenty of salted water and cook the soaked rice until 70 percent done. Drain.", "s": 360},
+      {"t": "In a heavy pot, cook the marinated chicken with the tomatoes until the masala thickens.", "s": 600},
+      {"t": "Spread the rice over the chicken. Top with remaining fried onions, mint, coriander and ghee."},
+      {"t": "Seal the pot with foil and a tight lid. Cook on the lowest heat (dum).", "s": 1500},
+      {"t": "Rest, covered, then fluff gently from the edges and serve with raita.", "s": 600}
+    ]
+  },
+  {
+    "id": "palak-paneer", "name": "Palak Paneer", "emoji": "🥬", "wiki": "Palak paneer", "veg": true, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "spinach", "q": "500 g (2 bunches)"}, {"n": "paneer", "q": "200 g, cubed"}, {"n": "onion", "q": "1, chopped"}, {"n": "tomato", "q": "2, chopped"},
+      {"n": "ginger", "q": "1 inch, grated"}, {"n": "garlic", "q": "4 cloves"}, {"n": "green chili", "q": "2"}, {"n": "cream", "q": "2 tbsp", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "garam masala", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Blanch the spinach in boiling water, then dunk in cold water. Blend with green chilies to a smooth puree.", "s": 120},
+      {"t": "Shallow fry the paneer cubes until golden on the sides. Set aside."},
+      {"t": "Heat oil, add cumin, then the onion. Cook until golden.", "s": 360},
+      {"t": "Add ginger, garlic and tomatoes. Cook until soft and mushy.", "s": 300},
+      {"t": "Pour in the spinach puree with garam masala and salt. Simmer.", "s": 300},
+      {"t": "Add the paneer and cream. Simmer 2 minutes and serve hot with roti.", "s": 120}
+    ]
+  },
+  {
+    "id": "chana-masala", "name": "Chana Masala", "emoji": "🫘", "wiki": "Chana masala", "veg": true, "mins": 40, "level": "Easy", "serves": 4,
+    "ing": [
+      {"n": "chickpeas", "q": "2 cups cooked (or 1 cup dried, soaked overnight)"}, {"n": "onion", "q": "2, finely chopped"}, {"n": "tomato", "q": "3, pureed"},
+      {"n": "ginger", "q": "1 inch, grated"}, {"n": "garlic", "q": "4 cloves"}, {"n": "green chili", "q": "1"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "lemon", "q": "1/2", "o": 1}, {"n": "coriander powder", "q": "2 tsp", "s": 1}, {"n": "cumin", "q": "1 tsp", "s": 1},
+      {"n": "garam masala", "q": "1 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "If using dried chickpeas, pressure cook them with salt until soft. Otherwise drain the cooked chickpeas."},
+      {"t": "Heat oil, add cumin, then onions. Cook until deep golden brown.", "s": 480},
+      {"t": "Add ginger, garlic and green chili. Stir for a minute."},
+      {"t": "Add the tomato puree and all the powdered spices. Cook until the oil separates.", "s": 420},
+      {"t": "Add the chickpeas and a cup of water. Simmer, mashing a few chickpeas to thicken the gravy.", "s": 900},
+      {"t": "Finish with lemon juice and coriander leaves. Serve with rice, bhature or roti."}
+    ]
+  },
+  {
+    "id": "dal-tadka", "name": "Dal Tadka", "emoji": "🍲", "wiki": "Dal", "veg": true, "mins": 40, "level": "Easy", "serves": 4,
+    "ing": [
+      {"n": "toor dal", "q": "1 cup, rinsed"}, {"n": "onion", "q": "1, chopped"}, {"n": "tomato", "q": "2, chopped"}, {"n": "garlic", "q": "5 cloves, sliced"},
+      {"n": "green chili", "q": "2"}, {"n": "coriander leaves", "q": "a handful"}, {"n": "ghee", "q": "2 tbsp (or oil)", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Cook the dal with turmeric, salt and 3 cups water in a pressure cooker until completely soft. Whisk until creamy.", "s": 900},
+      {"t": "In a pan, heat a little oil and cook onion, tomato and green chili until soft.", "s": 420},
+      {"t": "Add the cooked mixture to the dal and simmer, adjusting water for the thickness you like.", "s": 300},
+      {"t": "For the tadka, heat ghee or oil until hot. Add cumin, sliced garlic and chili powder. Let the garlic turn golden."},
+      {"t": "Pour the sizzling tadka over the dal, garnish with coriander and serve with rice."}
+    ]
+  },
+  {
+    "id": "aloo-gobi", "name": "Aloo Gobi", "emoji": "🥔", "wiki": "Aloo gobi", "veg": true, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "potato", "q": "2 medium, cubed"}, {"n": "cauliflower", "q": "1 small, florets"}, {"n": "onion", "q": "1, chopped"}, {"n": "tomato", "q": "2, chopped"},
+      {"n": "ginger", "q": "1 inch, grated"}, {"n": "green chili", "q": "1"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "coriander powder", "q": "1 tsp", "s": 1},
+      {"n": "red chili powder", "q": "1/2 tsp", "s": 1}, {"n": "garam masala", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil, add cumin, then onion and ginger. Cook until golden.", "s": 300},
+      {"t": "Add tomatoes and the powdered spices. Cook until soft and the oil separates.", "s": 240},
+      {"t": "Add potatoes and cauliflower with salt and green chili. Mix to coat in the masala."},
+      {"t": "Cover and cook on low heat, stirring now and then, until the vegetables are tender. Sprinkle water only if sticking.", "s": 1080},
+      {"t": "Finish with garam masala and coriander leaves."}
+    ]
+  },
+  {
+    "id": "jeera-rice", "name": "Jeera Rice", "emoji": "🍚", "wiki": null, "veg": true, "mins": 25, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "rice", "q": "1 cup basmati, rinsed and soaked 15 min"}, {"n": "ghee", "q": "1 tbsp (or oil)", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat ghee or oil in a pot. Add the cumin and let it crackle."},
+      {"t": "Add the drained rice and gently stir for a minute."},
+      {"t": "Pour in 1.75 cups water and add salt. Bring to a boil.", "s": 180},
+      {"t": "Cover, reduce to the lowest heat and cook until the water is absorbed.", "s": 600},
+      {"t": "Switch off, rest covered, then fluff with a fork.", "s": 300}
+    ]
+  },
+  {
+    "id": "egg-curry", "name": "Egg Curry", "emoji": "🥚", "wiki": "Egg curry", "veg": false, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "egg", "q": "4"}, {"n": "onion", "q": "2, finely chopped"}, {"n": "tomato", "q": "2, chopped"}, {"n": "ginger", "q": "1 inch, grated"},
+      {"n": "garlic", "q": "4 cloves, minced"}, {"n": "green chili", "q": "1"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "coriander powder", "q": "1 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1},
+      {"n": "garam masala", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Hard boil the eggs, cool them in water, peel, and make a few light slits in each.", "s": 600},
+      {"t": "Heat oil and cook onions until golden brown.", "s": 420},
+      {"t": "Add ginger, garlic and green chili, then the tomatoes and powdered spices. Cook until the oil separates.", "s": 360},
+      {"t": "Add 1 cup water and salt. Simmer to a gravy.", "s": 300},
+      {"t": "Add the eggs, simmer 5 more minutes, and finish with garam masala and coriander.", "s": 300}
+    ]
+  },
+  {
+    "id": "poha", "name": "Poha", "emoji": "🍳", "wiki": null, "veg": true, "mins": 20, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "poha", "q": "2 cups thick flattened rice"}, {"n": "onion", "q": "1, chopped"}, {"n": "potato", "q": "1 small, diced", "o": 1}, {"n": "peanuts", "q": "2 tbsp"},
+      {"n": "green chili", "q": "2"}, {"n": "curry leaves", "q": "8 to 10"}, {"n": "lemon", "q": "1/2"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "sugar", "q": "1 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Rinse the poha in a colander until soft but not mushy. Mix in salt, sugar and turmeric. Let it rest.", "s": 300},
+      {"t": "Heat oil. Fry the peanuts until crisp and set aside."},
+      {"t": "In the same oil add mustard seeds, curry leaves and green chili. When they splutter, add the onion (and potato if using).", "s": 420},
+      {"t": "Add the poha and peanuts. Toss gently and heat through.", "s": 120},
+      {"t": "Finish with lemon juice and coriander leaves."}
+    ]
+  },
+  {
+    "id": "upma", "name": "Rava Upma", "emoji": "🥣", "wiki": "Upma", "veg": true, "mins": 20, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "semolina", "q": "1 cup"}, {"n": "onion", "q": "1, chopped"}, {"n": "green chili", "q": "2"}, {"n": "ginger", "q": "1/2 inch, grated"},
+      {"n": "curry leaves", "q": "8 to 10"}, {"n": "carrot", "q": "1 small, diced", "o": 1}, {"n": "lemon", "q": "1/2", "o": 1},
+      {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Dry roast the semolina until fragrant and lightly colored. Set aside.", "s": 300},
+      {"t": "Heat oil, add mustard seeds, curry leaves, green chili and ginger."},
+      {"t": "Add onion (and carrot if using) and cook until soft.", "s": 180},
+      {"t": "Add 2.5 cups hot water and salt. Bring to a rolling boil."},
+      {"t": "Lower the heat and pour in the semolina in a stream while stirring to avoid lumps. Cover and cook.", "s": 180},
+      {"t": "Finish with lemon juice and serve hot."}
+    ]
+  },
+  {
+    "id": "masala-dosa", "name": "Masala Dosa", "emoji": "🥞", "wiki": "Masala dosa", "veg": true, "mins": 50, "level": "Medium", "serves": 3,
+    "ing": [
+      {"n": "dosa batter", "q": "3 cups, fermented"}, {"n": "potato", "q": "3 medium, boiled"}, {"n": "onion", "q": "2, sliced"}, {"n": "green chili", "q": "2"},
+      {"n": "ginger", "q": "1/2 inch, grated"}, {"n": "curry leaves", "q": "8 to 10"}, {"n": "mustard seeds", "q": "1 tsp", "s": 1},
+      {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "for the pan", "s": 1}
+    ],
+    "steps": [
+      {"t": "Make the filling. Heat oil, add mustard seeds, curry leaves, green chili and ginger."},
+      {"t": "Add the onions and turmeric. Cook until soft.", "s": 300},
+      {"t": "Add the roughly mashed boiled potatoes, salt and a splash of water. Mix well and keep warm.", "s": 180},
+      {"t": "Heat a flat tawa until a drop of water sizzles. Pour a ladle of batter and spread thin in circles."},
+      {"t": "Drizzle oil around the edges and cook until the underside is crisp and golden.", "s": 150},
+      {"t": "Place filling in the center, fold the dosa and serve with chutney and sambar."}
+    ]
+  },
+  {
+    "id": "rajma", "name": "Rajma", "emoji": "🫘", "wiki": "Rajma", "veg": true, "mins": 70, "level": "Medium", "serves": 4,
+    "ing": [
+      {"n": "rajma", "q": "1 cup dried kidney beans, soaked overnight"}, {"n": "onion", "q": "2, chopped"}, {"n": "tomato", "q": "3, pureed"},
+      {"n": "ginger", "q": "1 inch, grated"}, {"n": "garlic", "q": "5 cloves"}, {"n": "green chili", "q": "1"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "coriander powder", "q": "2 tsp", "s": 1}, {"n": "garam masala", "q": "1 tsp", "s": 1},
+      {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Pressure cook the soaked rajma with salt and enough water until very soft.", "s": 1500},
+      {"t": "Heat oil, add cumin, then onions. Cook until golden.", "s": 420},
+      {"t": "Add ginger, garlic and green chili, then the tomato puree and powdered spices. Cook until the oil separates.", "s": 420},
+      {"t": "Add the cooked rajma with its liquid. Mash a few beans against the pot.", "s": 60},
+      {"t": "Simmer until the gravy is thick and rich.", "s": 900},
+      {"t": "Garnish with coriander and serve with steamed rice."}
+    ]
+  },
+  {
+    "id": "aloo-paratha", "name": "Aloo Paratha", "emoji": "🫓", "wiki": "Paratha", "veg": true, "mins": 45, "level": "Medium", "serves": 3,
+    "ing": [
+      {"n": "wheat flour", "q": "2 cups"}, {"n": "potato", "q": "3 large, boiled and mashed"}, {"n": "green chili", "q": "2, minced"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "red chili powder", "q": "1/2 tsp", "s": 1}, {"n": "garam masala", "q": "1/2 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "for cooking", "s": 1}
+    ],
+    "steps": [
+      {"t": "Knead the flour with water, a pinch of salt and a little oil into a soft dough. Rest it.", "s": 900},
+      {"t": "Mix the mashed potato with green chili, coriander, cumin, chili powder, garam masala and salt."},
+      {"t": "Roll a dough ball into a small disc, place a spoon of filling in the center and seal the edges."},
+      {"t": "Gently roll it flat, dusting with flour as needed."},
+      {"t": "Cook on a hot tawa, brushing oil on both sides, until golden spots appear.", "s": 180},
+      {"t": "Serve hot with curd, pickle or butter."}
+    ]
+  },
+  {
+    "id": "veg-khichdi", "name": "Moong Dal Khichdi", "emoji": "🍲", "wiki": "Khichdi", "veg": true, "mins": 30, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "rice", "q": "1 cup"}, {"n": "moong dal", "q": "1/2 cup"}, {"n": "carrot", "q": "1, diced", "o": 1}, {"n": "peas", "q": "1/2 cup", "o": 1},
+      {"n": "ginger", "q": "1/2 inch, grated"}, {"n": "green chili", "q": "1"}, {"n": "ghee", "q": "2 tbsp (or oil)", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Wash the rice and dal together and soak briefly.", "s": 600},
+      {"t": "In a pressure cooker, heat ghee and add cumin, ginger and green chili."},
+      {"t": "Add vegetables if using, then the rice and dal. Stir with turmeric and salt."},
+      {"t": "Add 4 cups water, close the lid and cook until soft and porridge-like.", "s": 900},
+      {"t": "Mash lightly, top with a spoon of ghee, and serve with curd or pickle."}
+    ]
+  },
+  {
+    "id": "sambar", "name": "Sambar", "emoji": "🍲", "wiki": "Sambar (dish)", "veg": true, "mins": 50, "level": "Medium", "serves": 4,
+    "ing": [
+      {"n": "toor dal", "q": "1/2 cup"}, {"n": "tamarind", "q": "lemon-sized ball, soaked"}, {"n": "onion", "q": "1, chopped"}, {"n": "tomato", "q": "1, chopped"},
+      {"n": "carrot", "q": "1, diced"}, {"n": "potato", "q": "1, diced", "o": 1}, {"n": "sambar powder", "q": "2 tbsp"}, {"n": "curry leaves", "q": "10"},
+      {"n": "coriander leaves", "q": "a handful"}, {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Pressure cook the dal with turmeric and water until soft. Mash it.", "s": 900},
+      {"t": "Boil the vegetables in tamarind water with salt until tender.", "s": 900},
+      {"t": "Add the mashed dal and sambar powder. Simmer.", "s": 600},
+      {"t": "Temper: heat oil, add mustard seeds and curry leaves. Pour over the sambar."},
+      {"t": "Garnish with coriander and serve with idli, dosa or rice."}
+    ]
+  },
+  {
+    "id": "rasam", "name": "Tomato Rasam", "emoji": "🥣", "wiki": "Rasam", "veg": true, "mins": 25, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "tomato", "q": "3, crushed"}, {"n": "tamarind", "q": "small marble-sized ball, soaked"}, {"n": "garlic", "q": "4 cloves, crushed"},
+      {"n": "curry leaves", "q": "8"}, {"n": "coriander leaves", "q": "a handful"}, {"n": "black pepper", "q": "1 tsp, crushed", "s": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/4 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Boil tomatoes with tamarind water, turmeric and salt until the tomatoes break down.", "s": 600},
+      {"t": "Coarsely crush pepper, cumin and garlic together, then add to the pot."},
+      {"t": "Add 2 cups water and simmer gently. Do not boil hard.", "s": 300},
+      {"t": "Temper with oil, mustard seeds and curry leaves. Pour in."},
+      {"t": "Finish with coriander and serve as a soup or with rice."}
+    ]
+  },
+  {
+    "id": "veg-pulao", "name": "Vegetable Pulao", "emoji": "🍚", "wiki": "Pulao", "veg": true, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "rice", "q": "1.5 cups basmati, soaked"}, {"n": "carrot", "q": "1, diced"}, {"n": "peas", "q": "1/2 cup"}, {"n": "onion", "q": "1, sliced"},
+      {"n": "ginger", "q": "1/2 inch"}, {"n": "garlic", "q": "3 cloves"}, {"n": "green chili", "q": "2"}, {"n": "ghee", "q": "2 tbsp (or oil)", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "garam masala", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat ghee, add cumin, then onion, ginger, garlic and chilies. Cook until golden.", "s": 360},
+      {"t": "Add carrots and peas with garam masala. Stir for 2 minutes.", "s": 120},
+      {"t": "Add the drained rice and gently toss.", "s": 60},
+      {"t": "Pour in 2.25 cups hot water and salt. Bring to a boil.", "s": 180},
+      {"t": "Cover and cook on the lowest heat until the water is absorbed.", "s": 780},
+      {"t": "Rest 5 minutes, fluff, and serve with raita.", "s": 300}
+    ]
+  },
+  {
+    "id": "bhindi-masala", "name": "Bhindi Masala", "emoji": "🥒", "wiki": "Bhindi masala", "veg": true, "mins": 30, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "okra", "q": "400 g, washed, dried and sliced"}, {"n": "onion", "q": "2, sliced"}, {"n": "tomato", "q": "1, chopped"}, {"n": "lemon", "q": "1/2", "o": 1},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "coriander powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil and fry the okra on medium-high heat without covering, until no longer sticky.", "s": 600},
+      {"t": "Remove the okra. In the same pan, add cumin and onions. Cook until golden.", "s": 360},
+      {"t": "Add tomato and the spices. Cook until soft.", "s": 180},
+      {"t": "Return the okra and toss gently. Cook uncovered for a few minutes.", "s": 240},
+      {"t": "Finish with a squeeze of lemon and serve with roti."}
+    ]
+  },
+  {
+    "id": "paneer-bhurji", "name": "Paneer Bhurji", "emoji": "🧀", "wiki": null, "veg": true, "mins": 15, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "paneer", "q": "250 g, crumbled"}, {"n": "onion", "q": "1, chopped"}, {"n": "tomato", "q": "1, chopped"}, {"n": "green chili", "q": "2"},
+      {"n": "ginger", "q": "1/2 inch, grated"}, {"n": "capsicum", "q": "1/2, chopped", "o": 1}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/4 tsp", "s": 1}, {"n": "red chili powder", "q": "1/2 tsp", "s": 1},
+      {"n": "garam masala", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil, add cumin, then onion, ginger and green chili. Cook until soft.", "s": 240},
+      {"t": "Add tomato and capsicum if using, with turmeric and chili powder. Cook until mushy.", "s": 180},
+      {"t": "Add the crumbled paneer and salt. Mix well.", "s": 180},
+      {"t": "Sprinkle garam masala and coriander. Serve with roti or in a sandwich."}
+    ]
+  },
+  {
+    "id": "curd-rice", "name": "Curd Rice", "emoji": "🍚", "wiki": "Curd rice", "veg": true, "mins": 15, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "rice", "q": "1 cup, cooked until very soft"}, {"n": "curd", "q": "1 cup"}, {"n": "milk", "q": "1/4 cup"}, {"n": "green chili", "q": "1"},
+      {"n": "ginger", "q": "1/2 inch, grated"}, {"n": "curry leaves", "q": "8"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Mash the warm rice slightly with the back of a spoon."},
+      {"t": "Mix in curd, milk and salt until creamy."},
+      {"t": "Heat oil and add mustard seeds, green chili, ginger and curry leaves. Let them splutter."},
+      {"t": "Pour the tempering over the rice and mix. Garnish with coriander and serve."}
+    ]
+  },
+  {
+    "id": "lemon-rice", "name": "Lemon Rice", "emoji": "🍋", "wiki": "Lemon rice", "veg": true, "mins": 15, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "rice", "q": "2 cups cooked, cooled"}, {"n": "lemon", "q": "1 to 2"}, {"n": "peanuts", "q": "2 tbsp"}, {"n": "curry leaves", "q": "10"},
+      {"n": "green chili", "q": "2"}, {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil and fry the peanuts until golden."},
+      {"t": "Add mustard seeds, green chili and curry leaves. Let them splutter."},
+      {"t": "Add turmeric, then the rice and salt. Toss gently on low heat.", "s": 120},
+      {"t": "Turn off the heat, squeeze in lemon juice and mix. Serve."}
+    ]
+  },
+  {
+    "id": "aloo-matar", "name": "Aloo Matar", "emoji": "🥔", "wiki": null, "veg": true, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "potato", "q": "3 medium, cubed"}, {"n": "peas", "q": "1 cup"}, {"n": "onion", "q": "2, chopped"}, {"n": "tomato", "q": "2, pureed"},
+      {"n": "ginger", "q": "1 inch, grated"}, {"n": "garlic", "q": "4 cloves"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "coriander powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1},
+      {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "garam masala", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil, add cumin, then onions. Cook until golden.", "s": 420},
+      {"t": "Add ginger and garlic, then the tomato puree and spices. Cook until the oil separates.", "s": 360},
+      {"t": "Add potatoes, peas, salt and 1.5 cups water."},
+      {"t": "Cover and simmer until the potatoes are tender.", "s": 1080},
+      {"t": "Finish with garam masala and coriander. Serve with roti or rice."}
+    ]
+  },
+  {
+    "id": "baingan-bharta", "name": "Baingan Bharta", "emoji": "🍆", "wiki": "Baingan bharta", "veg": true, "mins": 40, "level": "Medium", "serves": 3,
+    "ing": [
+      {"n": "brinjal", "q": "1 large (about 500 g)"}, {"n": "onion", "q": "2, chopped"}, {"n": "tomato", "q": "2, chopped"}, {"n": "garlic", "q": "4 cloves"},
+      {"n": "green chili", "q": "2"}, {"n": "ginger", "q": "1/2 inch"}, {"n": "coriander leaves", "q": "a handful"}, {"n": "cumin", "q": "1 tsp", "s": 1},
+      {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Rub the brinjal with oil, prick it and roast directly over a flame or in a hot oven, turning until the skin chars and the flesh is soft.", "s": 900},
+      {"t": "Cool, peel off the skin and mash the flesh."},
+      {"t": "Heat oil, add cumin, garlic, ginger and green chili. Add onions and cook until golden.", "s": 420},
+      {"t": "Add tomatoes, turmeric and chili powder. Cook until soft.", "s": 240},
+      {"t": "Add the mashed brinjal and salt. Cook, stirring, until well blended.", "s": 300},
+      {"t": "Garnish with coriander and serve with roti."}
+    ]
+  },
+  {
+    "id": "pav-bhaji", "name": "Pav Bhaji", "emoji": "🍞", "wiki": "Pav bhaji", "veg": true, "mins": 50, "level": "Medium", "serves": 4,
+    "ing": [
+      {"n": "potato", "q": "3, peeled and cubed"}, {"n": "cauliflower", "q": "1 cup florets"}, {"n": "peas", "q": "1/2 cup"}, {"n": "carrot", "q": "1, diced"},
+      {"n": "tomato", "q": "4, chopped"}, {"n": "onion", "q": "2, chopped"}, {"n": "capsicum", "q": "1, chopped"}, {"n": "ginger", "q": "1 inch"},
+      {"n": "garlic", "q": "5 cloves"}, {"n": "butter", "q": "3 tbsp, plus more for the pav"}, {"n": "pav bhaji masala", "q": "2 tbsp"},
+      {"n": "pav", "q": "8 bread rolls"}, {"n": "lemon", "q": "1"}, {"n": "coriander leaves", "q": "a handful"},
+      {"n": "red chili powder", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}
+    ],
+    "steps": [
+      {"t": "Boil potato, cauliflower, peas and carrot with salt until very soft. Drain and mash roughly.", "s": 1200},
+      {"t": "Melt butter in a wide pan. Add ginger, garlic and onions. Cook until golden.", "s": 420},
+      {"t": "Add capsicum and tomatoes. Cook until completely broken down.", "s": 420},
+      {"t": "Add chili powder, turmeric and pav bhaji masala, then the mashed vegetables with a cup of water. Mash firmly as it cooks.", "s": 600},
+      {"t": "Toast the pav in butter on a pan until golden."},
+      {"t": "Top the bhaji with butter, lemon and coriander. Serve with pav and raw onion."}
+    ]
+  },
+  {
+    "id": "chicken-curry", "name": "Chicken Curry", "emoji": "🍗", "wiki": "Chicken curry", "veg": false, "mins": 50, "level": "Medium", "serves": 4,
+    "ing": [
+      {"n": "chicken", "q": "600 g, curry cut"}, {"n": "onion", "q": "3, finely chopped"}, {"n": "tomato", "q": "2, chopped"}, {"n": "ginger", "q": "1 inch, grated"},
+      {"n": "garlic", "q": "6 cloves"}, {"n": "green chili", "q": "2"}, {"n": "coriander leaves", "q": "a handful"}, {"n": "curd", "q": "1/4 cup", "o": 1},
+      {"n": "coriander powder", "q": "2 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "red chili powder", "q": "1 tsp", "s": 1},
+      {"n": "garam masala", "q": "1 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "4 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Heat oil and cook the onions until deep golden brown.", "s": 600},
+      {"t": "Add ginger, garlic and green chili. Cook for a minute."},
+      {"t": "Add tomatoes and all powdered spices. Cook until the oil separates.", "s": 420},
+      {"t": "Add the chicken (and curd, if using) and salt. Sear, stirring, until it changes color.", "s": 420},
+      {"t": "Add 1 cup water, cover and simmer until the chicken is tender.", "s": 1200},
+      {"t": "Finish with garam masala and coriander. Serve with rice or roti."}
+    ]
+  },
+  {
+    "id": "fish-curry", "name": "Coconut Fish Curry", "emoji": "🐟", "wiki": "Fish curry", "veg": false, "mins": 40, "level": "Medium", "serves": 3,
+    "ing": [
+      {"n": "fish", "q": "500 g, firm steaks"}, {"n": "coconut", "q": "1 cup grated or 1 cup coconut milk"}, {"n": "onion", "q": "2, chopped"}, {"n": "tomato", "q": "2, chopped"},
+      {"n": "tamarind", "q": "small ball, soaked"}, {"n": "ginger", "q": "1 inch"}, {"n": "garlic", "q": "5 cloves"}, {"n": "curry leaves", "q": "10"},
+      {"n": "mustard seeds", "q": "1 tsp", "s": 1}, {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "red chili powder", "q": "1.5 tsp", "s": 1},
+      {"n": "coriander powder", "q": "1 tbsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "3 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Grind the coconut with ginger, garlic and a little water to a smooth paste (skip if using coconut milk)."},
+      {"t": "Heat oil, add mustard seeds and curry leaves. Add onions and cook until soft.", "s": 300},
+      {"t": "Add tomatoes and the powdered spices. Cook until soft.", "s": 240},
+      {"t": "Stir in the coconut paste or milk, tamarind water, salt and a cup of water. Simmer.", "s": 480},
+      {"t": "Slide in the fish. Simmer gently without stirring too much until just cooked.", "s": 480},
+      {"t": "Rest 10 minutes for the flavors to settle, then serve with rice.", "s": 600}
+    ]
+  },
+  {
+    "id": "masala-omelette", "name": "Masala Omelette", "emoji": "🍳", "wiki": null, "veg": false, "mins": 10, "level": "Easy", "serves": 1,
+    "ing": [
+      {"n": "egg", "q": "3"}, {"n": "onion", "q": "1/2, finely chopped"}, {"n": "tomato", "q": "1/2, finely chopped"}, {"n": "green chili", "q": "1, minced"},
+      {"n": "coriander leaves", "q": "2 tbsp"}, {"n": "turmeric", "q": "a pinch", "s": 1}, {"n": "red chili powder", "q": "1/4 tsp", "s": 1},
+      {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "1 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Beat the eggs with salt, turmeric and chili powder."},
+      {"t": "Stir in the onion, tomato, green chili and coriander."},
+      {"t": "Heat oil in a non-stick pan and pour in the mixture. Spread evenly.", "s": 90},
+      {"t": "Flip once and cook the other side until set.", "s": 60},
+      {"t": "Serve with toast or pav."}
+    ]
+  },
+  {
+    "id": "kadhi", "name": "Punjabi Kadhi", "emoji": "🥣", "wiki": "Kadhi", "veg": true, "mins": 35, "level": "Easy", "serves": 3,
+    "ing": [
+      {"n": "curd", "q": "1 cup, sour"}, {"n": "besan", "q": "1/4 cup"}, {"n": "ginger", "q": "1/2 inch, grated"}, {"n": "green chili", "q": "1"},
+      {"n": "curry leaves", "q": "8"}, {"n": "coriander leaves", "q": "a handful"}, {"n": "cumin", "q": "1 tsp", "s": 1}, {"n": "mustard seeds", "q": "1 tsp", "s": 1},
+      {"n": "turmeric", "q": "1/2 tsp", "s": 1}, {"n": "red chili powder", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "2 tbsp", "s": 1}
+    ],
+    "steps": [
+      {"t": "Whisk curd, besan, turmeric, salt and 3 cups water until completely smooth."},
+      {"t": "Pour into a pot and bring to a boil, stirring constantly so it doesn't curdle."},
+      {"t": "Lower the heat and simmer, stirring often, until it thickens and loses the raw besan smell.", "s": 1500},
+      {"t": "Heat oil for the tadka. Add cumin, mustard seeds, curry leaves, green chili, ginger and chili powder. Pour over the kadhi."},
+      {"t": "Garnish with coriander and serve with rice."}
+    ]
+  },
+  {
+    "id": "besan-chilla", "name": "Besan Chilla", "emoji": "🥞", "wiki": null, "veg": true, "mins": 20, "level": "Easy", "serves": 2,
+    "ing": [
+      {"n": "besan", "q": "1 cup"}, {"n": "onion", "q": "1, finely chopped"}, {"n": "tomato", "q": "1, finely chopped"}, {"n": "green chili", "q": "1, minced"},
+      {"n": "coriander leaves", "q": "a handful"}, {"n": "cumin", "q": "1/2 tsp", "s": 1}, {"n": "turmeric", "q": "1/4 tsp", "s": 1},
+      {"n": "red chili powder", "q": "1/2 tsp", "s": 1}, {"n": "salt", "q": "to taste", "s": 1}, {"n": "oil", "q": "for the pan", "s": 1}
+    ],
+    "steps": [
+      {"t": "Whisk besan with about 3/4 cup water, salt and the spices into a smooth, pourable batter. Rest briefly.", "s": 300},
+      {"t": "Fold in the onion, tomato, green chili and coriander."},
+      {"t": "Heat and lightly oil a non-stick pan. Pour a ladle of batter and spread thin."},
+      {"t": "Cook until the edges lift and the underside is golden. Flip and cook the other side.", "s": 180},
+      {"t": "Serve hot with green chutney or ketchup."}
+    ]
+  }
+]
